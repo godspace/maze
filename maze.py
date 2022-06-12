@@ -1,6 +1,8 @@
 from pygame import *
 from random import *
 
+# github copilot
+
 display.set_caption("Maze")
 w = 800
 h = 800
